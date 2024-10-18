@@ -1,0 +1,154 @@
+{
+    "categories":[
+        {
+            "id": 1,
+            "name" : "medicines"
+        },
+        {
+            "id": 2,
+            "name" : "dietary supplements & vitamins"
+        },
+        {
+            "id": 3,
+            "name" : "skin & hair care"
+        },
+        {
+            "id": 4,
+            "name" : "medical devices"
+        },
+
+        {
+            "id": 5,
+            "name" : "trending products"
+        },
+
+        {
+            "id": 6,
+            "name" : "offers"
+        }
+    ],
+
+
+
+    "allProducts" :[
+        {
+            "id" :1,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        },
+
+        {
+            "id" :2,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        },
+
+        {
+            "id" :3,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        },
+
+        {
+            "id" :4,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        }, 
+
+        {
+            "id" :5,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        },
+
+        {
+            "id" :6,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        },
+
+        {
+            "id" :7,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        },
+
+        {
+            "id" :8,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        },
+
+        {
+            "id" :9,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        },
+
+        {
+            "id" :10,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        },
+
+        {
+            "id" :11,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        },
+
+        {
+            "id" :12,
+            "title" : "",
+            "image" : "",
+            "description" : "",
+            "catID" : 1,
+            "price" : 1,
+            "quantity" : 1
+        }
+    ]
+}
