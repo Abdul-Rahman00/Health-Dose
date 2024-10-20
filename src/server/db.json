@@ -3,22 +3,22 @@
         {
             "id": 1,
             "name" : "medications",
-            "image" : "assets/pills.jpg"
+            "imgUrl" : "assets/pills.jpg"
         },
         {
             "id": 2,
             "name" : "supplements & vitamins",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/centrum-adult-30tab-mgqo-01668001558.png"
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/centrum-adult-30tab-mgqo-01668001558.png"
         },
         {
             "id": 3,
             "name" : "skin & hair care",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/bio-soft-avocado-deep-conditioner-500gm-kvqa-01725876368.png"
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/bio-soft-avocado-deep-conditioner-500gm-kvqa-01725876368.png"
         },
         {
             "id": 4,
             "name" : "medical devices",
-            "image" : "assets/17469886073517.jpeg"
+            "imgUrl" : "assets/17469886073517.jpeg"
         },
 
         {
@@ -34,11 +34,11 @@
 
 
 
-    "allProducts" :[
+    "products" :[
         {
             "id" :1,
             "title" : "Brufen | 600Mg | 30Tab",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/1226x1374/public/uploads/products/brufen-600-mg-30-tabs-qycp-01670874549.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/1226x1374/public/uploads/products/brufen-600-mg-30-tabs-qycp-01670874549.png",
             "description" : "Brufen | 600Mg | 30Tab",
             "catID" : 1,
             "price" : 99 ,
@@ -48,7 +48,7 @@
         {
             "id" :2,
             "title" : "Doliprane | Pain & Fever | 1000mg | 15 Tabs",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/1226x1374/public/uploads/products/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets-01709223062.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/1226x1374/public/uploads/products/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets-01709223062.png",
             "description" : "",
             "catID" : 1,
             "price" : 100,
@@ -58,7 +58,7 @@
         {
             "id" :3,
             "title" : "Panadol | Extra Tablets",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/1226x1374/public/uploads/products/panadol-extra-tab-01720063004.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/1226x1374/public/uploads/products/panadol-extra-tab-01720063004.png",
             "description" : "",
             "catID" : 1,
             "price" : 150,
@@ -68,7 +68,7 @@
         {
             "id" :4,
             "title" : "Centrum | Lutein | 30 Tabs",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/centrum-adult-30tab-mgqo-01668001558.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/centrum-adult-30tab-mgqo-01668001558.png",
             "description" : "",
             "catID" : 2,
             "price" : 50,
@@ -78,7 +78,7 @@
         {
             "id" :5,
             "title" : "Limitless Vitamin C | 500mg | 20 Tabs",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/1617011870limitless-c-500mg-20tabletspng",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/1617011870limitless-c-500mg-20tabletspng",
             "description" : "",
             "catID" : 2,
             "price" : 200,
@@ -88,7 +88,7 @@
         {
             "id" :6,
             "title" : "Wellwoman | Original Dietary Supplement",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/wellwoman-vitabiotics-original-60tab-isbo-01676211644.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/wellwoman-vitabiotics-original-60tab-isbo-01676211644.png",
             "description" : "",
             "catID" : 2,
             "price" : 250,
@@ -98,7 +98,7 @@
         {
             "id" :7,
             "title" : "Bio Soft | Avocado Deep Conditioner",  
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/bio-soft-avocado-deep-conditioner-500gm-kvqa-01725876368.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/bio-soft-avocado-deep-conditioner-500gm-kvqa-01725876368.png",
             "description" : "",
             "catID" : 3,
             "price" : 100,
@@ -108,7 +108,7 @@
         {
             "id" :8,
             "title" : "Bless | Spray conditioner with argan oil",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/bless-spray-conditioner-with-argan-oil-250ml-ryii-01720621224.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/bless-spray-conditioner-with-argan-oil-250ml-ryii-01720621224.png",
             "description" : "",
             "catID" : 3,
             "price" : 100,
@@ -118,7 +118,7 @@
         {
             "id" :9,
             "title" : "1+1 Beesline | ultrascreen cream | 60ml",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/beesline-ultrascreen-cream-60ml-2pcs-mdyx-01712489091.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/beesline-ultrascreen-cream-60ml-2pcs-mdyx-01712489091.png",
             "description" : "",
             "catID" : 3,
             "price" : 500,
@@ -128,7 +128,7 @@
         {
             "id" :10,
             "title" : "Eva Skin Clinic White Pearl",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
             "description" : "",
             "catID" : 3,
             "price" : 70,
@@ -138,7 +138,7 @@
         {
             "id" :11,
             "title" : "Hand Sanitizer",
-            "image" : "https://tunatheme.com/tf/html/vicodin-preview/vicodin-rtl/img/product/4.png",
+            "imgUrl" : "https://tunatheme.com/tf/html/vicodin-preview/vicodin-rtl/img/product/4.png",
             "description" : "",
             "catID" : 4,
             "price" : 100,
@@ -148,7 +148,7 @@
         {
             "id" :12,
             "title" : "Thermometer Gun",
-            "image" : "https://tunatheme.com/tf/html/vicodin-preview/vicodin-rtl/img/product/6.png",
+            "imgUrl" : "https://tunatheme.com/tf/html/vicodin-preview/vicodin-rtl/img/product/6.png",
             "description" : "",
             "catID" : 4,
             "price" : 700,
@@ -156,9 +156,9 @@
         },
 
         {
-            "id" :15,
+            "id" :13,
             "title" : "Thermometer Gun",
-            "image" : "https://tunatheme.com/tf/html/vicodin-preview/vicodin-rtl/img/product/6.png",
+            "imgUrl" : "https://tunatheme.com/tf/html/vicodin-preview/vicodin-rtl/img/product/6.png",
             "description" : "",
             "catID" : 4,
             "price" : 500,
@@ -167,9 +167,9 @@
 
         
         {
-            "id" :13,
+            "id" :14,
             "title" : "Eva Skin Clinic White Pearl",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
             "description" : "",
             "catID" : 5,
             "price" : 100,
@@ -178,9 +178,9 @@
 
         
         {
-            "id" :14,
+            "id" :15,
             "title" : "Eva Skin Clinic White Pearl",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
             "description" : "",
             "catID" : 5,
             "price" : 100,
@@ -188,9 +188,9 @@
         },
 
         {
-            "id" :14,
+            "id" :16,
             "title" : "Eva Skin Clinic White Pearl",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
             "description" : "",
             "catID" : 5,
             "price" : 100,
@@ -198,9 +198,9 @@
         },
 
         {
-            "id" :14,
+            "id" :17,
             "title" : "Eva Skin Clinic White Pearl",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
             "description" : "",
             "catID" : 5,
             "price" : 100,
@@ -208,9 +208,9 @@
         },
 
         {
-            "id" :14,
+            "id" :18,
             "title" : "Eva Skin Clinic White Pearl",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
             "description" : "",
             "catID" : 5,
             "price" : 100,
@@ -218,9 +218,9 @@
         },
 
         {
-            "id" :14,
+            "id" :19,
             "title" : "Eva Skin Clinic White Pearl",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
             "description" : "",
             "catID" : 5,
             "price" : 100,
@@ -228,9 +228,9 @@
         },
 
         {
-            "id" :14,
+            "id" :20,
             "title" : "Eva Skin Clinic White Pearl",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
             "description" : "",
             "catID" : 5,
             "price" : 150,
@@ -238,9 +238,9 @@
         },
 
         {
-            "id" :14,
+            "id" :21,
             "title" : "Eva Skin Clinic White Pearl",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/eva-skin-clinic-whitening-day-cream-with-white-pearl-extract-to-lighten-and-unify-the-skin-toneeva-skin-clinic-with-white-pearl-extract-cream-to-light-01721493355.png",
             "description" : "",
             "catID" : 5,
             "price" : 100,
@@ -248,9 +248,9 @@
         },
 
         {
-            "id" :14,
+            "id" :22,
             "title" : "1+1 Beesline | ultrascreen cream",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/beesline-ultrascreen-cream-60ml-2pcs-mdyx-01712489091.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/beesline-ultrascreen-cream-60ml-2pcs-mdyx-01712489091.png",
             "description" : "",
             "catID" : 6,
             "price" : 500,
@@ -258,9 +258,9 @@
         },
 
         {
-            "id" :14,
+            "id" :23,
             "title" : "Centrum | Lutein | 30 Tabs",
-            "image" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/centrum-adult-30tab-mgqo-01668001558.png",
+            "imgUrl" : "https://cdn.chefaa.com/filters:format(webp)/fit-in/718x718/public/uploads/products/centrum-adult-30tab-mgqo-01668001558.png",
             "description" : "",
             "catID" : 6,
             "price" : 500,
